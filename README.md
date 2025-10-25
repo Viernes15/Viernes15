@@ -1,15 +1,22 @@
 <h1 align="center">Hola , Soy Anyelo <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <div align="center">
-  <p>Visitor count</p>
-  <img src="https://profile-counter.glitch.me/Viernes15/count.svg"/>
-  <br/>
+ <!--Profile Count Badge-->
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=Kiran1689&label=Profile%20views&color=770677&style=for-the-badge&logo=star" alt="Kiran1689" style="padding-right:20px;" />
+</p>
 </div>
 <br>Como estudiante de Ingeniería de Sistemas en mi octavo semestre, estoy trabajando en un repositorio de GitHub para una tarea asignada por el docente de IA. Este proyecto forma parte de mis actividades académicas y tiene como objetivo explorar y documentar conceptos fundamentales relacionados con mi carrera, aplicando conocimientos en diseño, análisis y desarrollo de soluciones tecnológicas
+ <br/>
 
+# 💻 Tech Stack: <picture>  <br/><img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 230px></picture>
 
-# 💻 Tech Stack:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-# 📊 GitHub Stats:
+ <br/>
+   <br/>
+    <br/>
+     <br/>
+      <br/>
+## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Viernes15&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Viernes15&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Viernes15&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
