@@ -1,10 +1,5 @@
 <h1 align="center">Hola , Soy Anyelo <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-<div align="center">
- <!--Profile Count Badge-->
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=Kiran1689&label=Profile%20views&color=770677&style=for-the-badge&logo=star" alt="Kiran1689" style="padding-right:20px;" />
-</p>
-</div>
+
 <br>Como estudiante de Ingeniería de Sistemas en mi octavo semestre, estoy trabajando en un repositorio de GitHub para una tarea asignada por el docente de IA. Este proyecto forma parte de mis actividades académicas y tiene como objetivo explorar y documentar conceptos fundamentales relacionados con mi carrera, aplicando conocimientos en diseño, análisis y desarrollo de soluciones tecnológicas
  <br/>
 
